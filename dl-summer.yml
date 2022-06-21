@@ -1,0 +1,11 @@
+name: dl-summer
+dependencies:
+- python=3.8
+- pip
+- notebook
+- gensim
+- nltk
+- matplotlib
+- seaborn
+- scikit-learn
+- tensorflow-gpu
